@@ -677,9 +677,9 @@ def make_idx_data(revs, word_idx_map, max_l=40, k=300, filter_h=5):
 
     print 'loading text data'
     print('now():' + str(datetime.now()))
-    train_i, train_j, train_k = cPickle.load(open("./data_mm_text/AUC_new_dataset_train_811.pkl", "rb"))
-    valid_i, valid_j, valid_k = cPickle.load(open("./data_mm_text/AUC_new_dataset_valid_811.pkl", "rb"))
-    test_i, test_j, test_k = cPickle.load(open("./data_mm_text/AUC_new_dataset_test_811.pkl", "rb"))
+    train_i, train_j, train_k = cPickle.load(open("./data_mm_text/AUC_new_dataset_train_811_text.pkl", "rb"))
+    valid_i, valid_j, valid_k = cPickle.load(open("./data_mm_text/AUC_new_dataset_valid_811_text.pkl", "rb"))
+    test_i, test_j, test_k = cPickle.load(open("./data_mm_text/AUC_new_dataset_test_811_text.pkl", "rb"))
     print 'text data loaded'
     print('now():' + str(datetime.now()))
 
