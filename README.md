@@ -1,6 +1,6 @@
 # Neural Compatibility Modeling with Attentive Knowledge Distillation
 
-Code for paper [Neural Compatibility Modeling with Attentive Knowledge Distillation.](https://dl.acm.org/doi/abs/10.1145/3209978.3209996?casa_token=BMlZ2NCCuoIAAAAA:SchBFektWuZFOXcQp8-n2uA6SCgFuDB-rTP5siIjl3AP9vORv44JIbo0ne1J9uxQV-lcUHtOKgNDqQ).
+Code for paper [Neural Compatibility Modeling with Attentive Knowledge Distillation](https://dl.acm.org/doi/abs/10.1145/3209978.3209996?casa_token=BMlZ2NCCuoIAAAAA:SchBFektWuZFOXcQp8-n2uA6SCgFuDB-rTP5siIjl3AP9vORv44JIbo0ne1J9uxQV-lcUHtOKgNDqQ).
 
 ## Dependencies
 
@@ -14,6 +14,13 @@ We will also provide the Pytroch version in the near future.
 
 ## Data Preparation
 
+### Experiment data
+
+You can dowmload the experimental data and directily run the code in model document from [there](XXXX).
+
+### Process data
+
+XXX
 
 ### Meta data
 
