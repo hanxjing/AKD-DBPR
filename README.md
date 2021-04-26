@@ -10,17 +10,21 @@ This project currently requires
 
 - Theano0.9
 
-We will also provide the Pytroch version in the near future.
+We will also provide the Pytroch version with Python 3 in the near future.
 
 ## Data Preparation
 
 ### Experiment data
 
-You can dowmload the experimental data and directily run the code in model document from [there](XXXX).
+You can directily run the model with the experimental data that can be downloaded from [there](https://pan.baidu.com/s/1MG36wQSAAN9uQKYlC0_1iA) with code: ttul.
 
 ### Meta data
 
 The FashionVC dataset can be download from [there](https://drive.google.com/open?id=1lO7M-jSWb25yucaW2Jj-9j_c9NqquSVF).
+
+### Data process
+
+The code of data processing is in the \data_process. The processed text data utilized for rule extraction is in the \data_process\processde_text.
 
 ## Citations
 
