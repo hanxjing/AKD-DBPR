@@ -18,10 +18,6 @@ We will also provide the Pytroch version in the near future.
 
 You can dowmload the experimental data and directily run the code in model document from [there](XXXX).
 
-### Process data
-
-XXX
-
 ### Meta data
 
 The FashionVC dataset can be download from [there](https://drive.google.com/open?id=1lO7M-jSWb25yucaW2Jj-9j_c9NqquSVF).
